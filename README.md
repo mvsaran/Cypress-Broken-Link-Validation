@@ -147,11 +147,11 @@ Feel free to:
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## � Author
+##  Author
 - **Saran Kumar**
   - Test Automation Engineer
   - GitHub: [@mvsaran](https://github.com/mvsaran)
 
-## �🙏 Acknowledgments
+## 🙏 Acknowledgments
 - Cypress.io for the amazing testing framework
 - The Internet Herokuapp for providing test endpoints
